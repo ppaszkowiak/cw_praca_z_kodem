@@ -6,6 +6,6 @@ install:
 run:
 	flask run
 lint:
-    pylint nazwa_pliku.py
+    pylint app.py
 
 
